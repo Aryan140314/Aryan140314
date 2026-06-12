@@ -12,13 +12,54 @@
 
 ## 📜 Certifications
 
-- 🎖️ [Microsoft Azure Data Scientist Associate Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/H05XVFCLFJLT)
+## 📜 Certifications
 
-- 🎖️ [NoSQL, Big Data, and Spark Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/D4XRW7ZQ8TV9)
+<table>
+<tr>
+<td align="center" width="50%">
 
-- 🎖️ [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/PYGOSTG1VLDZ)
+### ☁️ Azure Data Scientist
 
-- 🎖️ [SQL Certification (Simplilearn SkillUp)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODI4NDczMF84MzQ1MzYzMTc1MzYxODEzOTU0MC5wbmciLCJ1c2VybmFtZSI6IkFSWUFOIn0)
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge\&logo=coursera\&logoColor=white)](https://www.coursera.org/account/accomplishments/professional-cert/H05XVFCLFJLT)
+
+**Microsoft Azure Data Scientist Associate Professional Certificate**
+
+</td>
+
+<td align="center" width="50%">
+
+### 🗄️ Big Data & NoSQL
+
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge\&logo=coursera\&logoColor=white)](https://www.coursera.org/account/accomplishments/specialization/D4XRW7ZQ8TV9)
+
+**NoSQL, Big Data, and Spark Foundations Specialization**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🤖 Machine Learning
+
+[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge\&logo=coursera\&logoColor=white)](https://www.coursera.org/account/accomplishments/verify/PYGOSTG1VLDZ)
+
+**Machine Learning with Python**
+
+</td>
+
+<td align="center">
+
+### 🛢️ SQL
+
+[![Simplilearn](https://img.shields.io/badge/Simplilearn-FF6B00?style=for-the-badge\&logo=simplilearn\&logoColor=white)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODI4NDczMF84MzQ1MzYzMTc1MzYxODEzOTU0MC5wbmciLCJ1c2VybmFtZSI6IkFSWUFOIn0)
+
+**SQL Certification (SkillUp)**
+
+</td>
+</tr>
+</table>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Aryan140314&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
