@@ -12,17 +12,13 @@
 
 ## 📜 Certifications
 
-- 🎖️ Microsoft Azure Data Scientist Associate Professional Certificate  
-  🔗 https://www.coursera.org/account/accomplishments/professional-cert/H05XVFCLFJLT
+- 🎖️ [Microsoft Azure Data Scientist Associate Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/H05XVFCLFJLT)
 
-- 🎖️ NoSQL, Big Data, and Spark Foundations Specialization  
-  🔗 https://www.coursera.org/account/accomplishments/specialization/D4XRW7ZQ8TV9
+- 🎖️ [NoSQL, Big Data, and Spark Foundations Specialization](https://www.coursera.org/account/accomplishments/specialization/D4XRW7ZQ8TV9)
 
-- 🎖️ Machine Learning with Python  
-  🔗 https://www.coursera.org/account/accomplishments/verify/PYGOSTG1VLDZ
+- 🎖️ [Machine Learning with Python](https://www.coursera.org/account/accomplishments/verify/PYGOSTG1VLDZ)
 
-- 🎖️ SQL Certification (Simplilearn SkillUp)  
-  🔗 https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODI4NDczMF84MzQ1MzYzMTc1MzYxODEzOTU0MC5wbmciLCJ1c2VybmFtZSI6IkFSWUFOIn0
+- 🎖️ [SQL Certification (Simplilearn SkillUp)](https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODI4NDczMF84MzQ1MzYzMTc1MzYxODEzOTU0MC5wbmciLCJ1c2VybmFtZSI6IkFSWUFOIn0)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Aryan140314&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
