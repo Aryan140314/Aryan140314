@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final-year Computer Science student passionate about AI, Machine Learning, and Full-Stack Development.<br>💻 I enjoy building real-world projects, exploring new technologies, and improving problem-solving skills.<br>🚀 Currently working on AI-based applications, web development, and open-source learning.<br>⚡ Interested in Computer Vision, Deep Learning, and scalable software systems.<br>
+🎓 Final-year Computer Science student passionate about AI, Machine Learning, and Software  Development.<br>💻 I enjoy building real-world projects, exploring new technologies, and improving problem-solving skills.<br>🚀 Currently working on AI-based applications,  web development, and open-source learning.<br>⚡ Interested in Computer Vision, Deep Learning, and scalable software System .<br>
 
 
 ## 🌐 Socials:
