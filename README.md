@@ -33,6 +33,12 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-000000?style=plastic&logo=fastapi&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=plastic&logo=json&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=plastic&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFCC4D?style=plastic&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=plastic&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=plastic&logo=chainlink&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-8A2BE2?style=plastic&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-FF6B35?style=plastic&logo=databricks&logoColor=white)
 
 
 ## 📜 Certifications
