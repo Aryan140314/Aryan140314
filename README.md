@@ -91,8 +91,16 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Aryan140314&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Aryan140314&theme=noctis_minimus&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Aryan140314&theme=noctis_minimus&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Aryan140314&theme=dark&hide_border=true&include_all_commits=true" height="170"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aryan140314&theme=dark&hide_border=true&layout=compact" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aryan140314&theme=dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aryan140314&icon=1&color=0"/>
+</p>
